@@ -19,7 +19,7 @@
 			"settings": {
 				"[python]": {
 					"editor.formatOnType": true,
-					"editor.defaultFormatter": "ms-python.autopep8"
+					"editor.defaultFormatter": "ms-python.black-formatter"
 				}
 			},
 			"extensions": [
@@ -28,7 +28,8 @@
 				"njpwerner.autodocstring",
 				"VisualStudioExptTeam.vscodeintellicode",
 				"batisteo.vscode-django",
-				"ms-python.autopep8"
+				"ms-python.autopep8",
+				"ms-python.black-formatter"
 			]
 		}
 	}

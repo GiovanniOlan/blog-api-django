@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # Third apps
     'rest_framework',
+    'drf_yasg',
 
     # My apps
     'apps.users'
